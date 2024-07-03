@@ -4,19 +4,20 @@ Salavel is a Student Management System built with Laravel. The system allows adm
 
 ## Features
 
-- User management (Admin only)
-  - Create, Read, Update, Delete users
-  - Differentiate between roles: Admin, Teacher, Student
-- Classroom management (Admin only)
-  - Create, Read, Update, Delete classrooms
+- User management
+  - Create, Read, Update, Delete users (Admin only)
+  - Profile Information and Changing Password ( Admin, Teacher, Student)
+  
+- Classroom management
+  - Create, Read, Update, Delete classrooms (Admin only)
   - Teachers can view their own classrooms
-- Course management (Admin only)
-  - Create, Read, Update, Delete courses
-  - Teachers can view their own courses
+  
+- Course management
+  - Create, Read, Update, Delete courses (Admin only)
+  - Teachers can view their teaching courses
+  
 - Enrollment management (Admin only)
   - Create, Read, Update, Delete enrollments
-- Profile management
-  - Users can view their own profiles
 
 ## Installation
 
