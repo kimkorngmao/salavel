@@ -1,6 +1,6 @@
 # Salavel
 
-Salavel is a Student Management System built with Laravel. The system allows admins to manage users, classrooms, courses, and enrollments. Teachers can view their assigned classrooms and courses, and students can view their own profiles.
+Salavel is a Student Management System that's been developed using Laravel. This platform gives admins the ability to oversee users, classrooms, courses, and enrollments. Teachers can check out the classrooms and courses they've been assigned to, while students are able to view their own profiles.
 
 ## Features
 
